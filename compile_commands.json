@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-g",
+      "-I/opt/homebrew/include/eigen3",
+      "-std=c++2b",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/Users/jakobsachs/Documents/Uni/Classes/AdvML/random/simple_mnist_cpp",
+    "file": "/Users/jakobsachs/Documents/Uni/Classes/AdvML/random/simple_mnist_cpp/main.cpp",
+    "output": "/Users/jakobsachs/Documents/Uni/Classes/AdvML/random/simple_mnist_cpp/main.o"
+  }
+]
