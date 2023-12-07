@@ -2,6 +2,8 @@
 
 This project implements a simple neural network in C++ to learn and classify digits from the MNIST dataset. The neural network is built from scratch using the Eigen library for matrix operations. The implementation includes the feed-forward network with ReLU and softmax activation functions, back-propagation for learning, and utilities to handle the MNIST data format.
 
+The main motivation for this was as an exercise for my advanced machine-learning course.
+
 ## Features
 
 - Neural network implementation with feed-forward, back-propagation, and training steps.
